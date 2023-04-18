@@ -1,14 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="151a68ab-1863-4c42-8a34-892d3d1f7dab" name="Changes" comment="" />
+    <list default="true" id="151a68ab-1863-4c42-8a34-892d3d1f7dab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/BinaryTreePaths.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/AddBinaryK.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/AddBinaryK.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/AddStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/AddStrings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/AssignCookiesK.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/AssignCookiesK.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/BestTimeToBuyAndSellStockII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/BestTimeToBuyAndSellStockII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/BestTimeToBuyAndSellStocksK.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/BestTimeToBuyAndSellStocksK.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/BinaryNumberWithAlternatingBits.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kevin_naughton/BinaryNumberWithAlternatingBits.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/AddBinary.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/AddBinary.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/AddTwoNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/AddTwoNumbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/ArrayPartitionI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/ArrayPartitionI.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/AssignCookies.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/AssignCookies.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/AsteroidCollision.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/AsteroidCollision.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/AvailableCapturesForRook.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/AvailableCapturesForRook.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/BackspaceStringCompare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/BackspaceStringCompare.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/BinarySearch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/BinarySearch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/BinaryTreeInorderTraversal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/BinaryTreeInorderTraversal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/BinaryTreeMaximumPathSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/BinaryTreeMaximumPathSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/TreeNode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/TreeNode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nick_white/bestTimeToBuyAndSellStocks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nick_white/bestTimeToBuyAndSellStocks.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2O4aj9ryu5pV6cbwvToe34poj2p" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,9 +55,69 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/nguyen/IdeaProjects/YouTuber/src/main/kotlin/nick_white"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/nick_white" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/kevin_naughton" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/kevin_naughton" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="nick_white" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.BinaryTreePathsKt">
+    <configuration name="BinaryNumberWithAlternatingBitsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryNumberWithAlternatingBitsKt" />
+      <module name="YouTuber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick_white.BinarySearchKt" />
+      <module name="YouTuber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeInorderTraversalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick_white.BinaryTreeInorderTraversalKt" />
+      <module name="YouTuber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeMaximumPathSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick_white.BinaryTreeMaximumPathSumKt" />
+      <module name="YouTuber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreePathsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick_white.BinaryTreePathsKt" />
+      <module name="YouTuber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.BinaryTreePathsKt" />
+        <item itemvalue="Kotlin.BinaryTreeMaximumPathSumKt" />
+        <item itemvalue="Kotlin.BinaryTreeInorderTraversalKt" />
+        <item itemvalue="Kotlin.BinarySearchKt" />
+        <item itemvalue="Kotlin.BinaryNumberWithAlternatingBitsKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

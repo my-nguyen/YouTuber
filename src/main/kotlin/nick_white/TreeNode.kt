@@ -1,4 +1,4 @@
-package p9_tree_depth_first_search
+package nick_white
 
 data class TreeNode(val value: Int, var left: TreeNode? = null, var right: TreeNode? = null) {
     var next: TreeNode? = null

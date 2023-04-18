@@ -1,11 +1,3 @@
-// You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
-//
-// You may assume the two numbers do not contain any leading zero, except the number 0 itself.
-//
-// Example:
-// Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
-// Output: 7 -> 0 -> 8
-// Explanation: 342 + 465 = 807.
 fun main() {
     val arrays1 = listOf(intArrayOf(2,4,3), intArrayOf(1,0,1,1), intArrayOf(6,8,7))
     val arrays2 = listOf(intArrayOf(5,6,4), intArrayOf(2,1,1,5), intArrayOf(4,1,1))
@@ -40,5 +32,3 @@ fun add_two_numbers(root1: Node, root2: Node): Node {
     }
     return dummy.next!!
 }
-
-// data class Node(val value: Int = -1, var next: Node? = null)
